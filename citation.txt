@@ -1,0 +1,7 @@
+@inproceedings{REPO032,
+    author = "Nasr, Milad and Shokri, Reza and Houmansadr, Amir",
+    booktitle = "Proceedings of the 2019 IEEE Symposium on Security and Privacy (SP)",
+    pages = "1--15",
+    title = "{Comprehensive Privacy Analysis of Deep Learning}",
+    year = "2018"
+}
